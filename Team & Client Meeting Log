@@ -194,21 +194,26 @@ Agenda Skype Meeting (10/03) 2PM-3:00PM
 
 Invited : Senior Design Team - Ryan Vacca, Murat Siyfiyev, Susan Lee, Drew Smegner.  
           Leidos Team        - Emily Blocker, James Mccants, Jon Ellsworth. 
-          
-Attended : Senior Design Team - 
-           Leidos Team        -  
-           
+       
+       MEETING CANCELLED
+
+Attended : Senior Design Team -  NONE
+           Leidos Team        -  NONE 
+        
+Although the skype meeting was cancelled, a breif discussion was made on slack on 10/02/19
+Notes:(from slack)
+1) A sprint meeting will be held before the 1st release
+2) What is needed for the 1st release:
+   - Code to be pushedo onto master branch
+   - Documentations
+   - Picture/Video Demonstration of software
+3) More details on the release and sprint next skype meeting
 Questions :
-
-1) 
-2) 
-
-Notes:
-
-1)
-2)
+1) What to prepare for the next meeting
 
 Action Items: 
 
-1)
-2)
+1) Set up a time for the next sprint meeting
+2) Get some kind of connection working to show team Leidos
+3) Get technical specification document finished
+4) Update team timeline
