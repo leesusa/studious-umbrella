@@ -107,7 +107,8 @@ Agenda / Notes:
 2. Review architecture diagram 
 3. Start connection to drone stub code
 4. Refreshed 
-
+5. Revisited Github
+6. Discussed on how we want to be uploading code in the future
 
 Todo:
 
@@ -115,8 +116,8 @@ All:
 
 Ryan - Import DJI sdk into project 
 Drew - look at code to connect android app to drone.... keep trying buddy
-Susan - 
+Susan - Update Trello
 
-Murat - Update Trello
+Murat - Also look into drone connection
 
 ***************************** END ******************************
